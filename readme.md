@@ -6,6 +6,14 @@ Project to create an automatically updating list of all scout badges from [membe
 Feel free to open an issue or create a pull request if this information is out of date, the script is broken, or you 
 want more information from the site.
 
+## format
+
+{
+    section:[
+        [badgeName, imageUrl]
+    ]
+}
+
 ## pages that are parsed
 
 * Cubs
@@ -23,7 +31,7 @@ want more information from the site.
     * Challenge Awards
     * Activity Badges
     * Staged Activity Badges
-* Exploreres
+* Explorers
     * Core badges
     * Awards
     * Activity Badges
