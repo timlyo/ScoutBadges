@@ -1,9 +1,11 @@
-from bs4 import BeautifulSoup
 import sys
-from urllib3 import PoolManager, response, exceptions
-import certifi
 import json
 import datetime
+
+from urllib3 import PoolManager
+
+from bs4 import BeautifulSoup
+import certifi
 
 pages = {
 	"beavers": "https://members.scouts.org.uk/supportresources/search/?cat=11,18",
@@ -70,10 +72,14 @@ def get_badge_info(url: str) -> list:
 
 
 if __name__ == "__main__":
-	badges = {"cubs": [], "scouts": [], "explorers": [], "beavers": []}
+	badges = {"cubs": {"core_badges": [], "activity_badges": [], "staged_badges": [], "challenge_badges": []},
+	          "scouts": {"core_badges": [], "activity_badges": [], "staged_badges": [], "challenge_badges": []},
+	          "explorers": {"core_badges": [], "activity_badges": [], "staged_badges": [], "awards": []},
+	          "beavers": {"core_badges": [], "activity_badges": [], "staged_badges": [], "challenge_badges": []}
+	          }
 	for group, page in pages.items():
 		for key, url in get_badge_urls(page).items():
-			badges[group] += parse_badge_lists(url)
+			badges[group][key] += parse_badge_lists(url)
 
 	badges["last_update"] = datetime.datetime.utcnow().isoformat(" ")
 

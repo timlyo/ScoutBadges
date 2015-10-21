@@ -8,11 +8,21 @@ want more information from the site.
 
 ## format
 
+```json
 {
-    section:[
-        [badgeName, imageUrl]
-    ]
+    section:{
+        type[
+            [badgeName, imageUrl],
+            [badgeName, imageUrl]
+        ]
+    }
 }
+```
+
+Where 
+
+* section = "cubs|scouts|beavers|explorers|network"
+* type = "core_badges|activity_badges|staged_badges|challenge_badges"
 
 ## pages that are parsed
 
@@ -40,5 +50,6 @@ want more information from the site.
 ## Dependencies
 
 * Python3.5
-    * Beatifulsoup
+    * Beatifulsoup4
     * certifi
+    * lxml
