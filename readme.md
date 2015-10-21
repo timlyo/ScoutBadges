@@ -21,8 +21,8 @@ want more information from the site.
 
 Where 
 
-* section = "cubs|scouts|beavers|explorers|network"
-* type = "core_badges|activity_badges|staged_badges|challenge_badges"
+* section = `"cubs|scouts|beavers|explorers|network"`
+* type = `"core_badges|activity_badges|staged_badges|challenge_badges|awards"`
 
 ## pages that are parsed
 
