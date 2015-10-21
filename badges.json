@@ -1,7 +1,819 @@
 {
-  "cubs": [],
-  "last_update": "2015-10-21 12:53:47.228291",
-  "beavers": [],
-  "scouts": [],
-  "explorers": []
+  "beavers": [
+    [
+      "Chief Scout's Bronze Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-csa.png"
+    ],
+    [
+      "My Adventure Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-adv.png"
+    ],
+    [
+      "My Outdoors Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-out.png"
+    ],
+    [
+      "My Skills Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-ski.png"
+    ],
+    [
+      "My World Challenge Award",
+      "https://members.scouts.org.uk/images/content/NewBe_World_RGB_v1.png"
+    ],
+    [
+      "Personal Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-per.png"
+    ],
+    [
+      "Teamwork Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015be-cs-tea.png"
+    ],
+    [
+      "Joining In Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-j1.png"
+    ],
+    [
+      "Membership Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-mb.png"
+    ],
+    [
+      "Moving On Award (Beavers to Cubs)",
+      "https://staging.scouts.org.uk/images/content/badges/2015be-m-moa.png"
+    ],
+    [
+      "Air Activities Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-aa1.png"
+    ],
+    [
+      "Community Impact Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-cs1.png"
+    ],
+    [
+      "Digital Citizen Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dc1.png"
+    ],
+    [
+      "Digital Maker Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dm1.png"
+    ],
+    [
+      "Emergency Aid Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ea1.png"
+    ],
+    [
+      "Hikes Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ha1.png"
+    ],
+    [
+      "Musician Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-mu1.png"
+    ],
+    [
+      "Nautical Skills Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ns1.png"
+    ],
+    [
+      "Navigator Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-nv1.png"
+    ],
+    [
+      "Nights Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-na1.png"
+    ],
+    [
+      "Paddle Sports Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ps1.png"
+    ],
+    [
+      "Sailing Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-sai1.png"
+    ],
+    [
+      "Swimmer Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-swm1.png"
+    ],
+    [
+      "Time on the Water Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-tow1.png"
+    ],
+    [
+      "Activity Plus Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-as-acp.png"
+    ],
+    [
+      "Animal Friend Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-af.png"
+    ],
+    [
+      "Camp Craft Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-cc.png"
+    ],
+    [
+      "Collector Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-coll.png"
+    ],
+    [
+      "Communicator Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-comm.png"
+    ],
+    [
+      "Cook Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-coo.png"
+    ],
+    [
+      "Creative Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-cre.png"
+    ],
+    [
+      "Cyclist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-cyc.png"
+    ],
+    [
+      "Disability Awareness Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-dis.png"
+    ],
+    [
+      "Experiment Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-expi.png"
+    ],
+    [
+      "Explore Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-expl.png"
+    ],
+    [
+      "Faith Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-fai.png"
+    ],
+    [
+      "Gardener Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015-be-as-gar.png"
+    ],
+    [
+      "Global Issues Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-gi.png"
+    ],
+    [
+      "Hobbies Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-hob.png"
+    ],
+    [
+      "International Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-int.png"
+    ],
+    [
+      "Photographer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-pho.png"
+    ],
+    [
+      "Safety Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-saf.png"
+    ],
+    [
+      "Space Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-spc.png"
+    ],
+    [
+      "Sports Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015be-as-spo.png"
+    ]
+  ],
+  "last_update": "2015-10-21 12:59:15.447218",
+  "explorers": [
+    [
+      "Membership Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-mb.png"
+    ],
+    [
+      "Moving On Award (Explorers to Network)",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-m-moa.png"
+    ],
+    [
+      "Participation Awards",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-j9.png"
+    ],
+    [
+      "Air Activities Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-aa1.png"
+    ],
+    [
+      "Community Impact Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-cs1.png"
+    ],
+    [
+      "Digital Citizen Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dc1.png"
+    ],
+    [
+      "Digital Maker Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dm1.png"
+    ],
+    [
+      "Emergency Aid Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ea1.png"
+    ],
+    [
+      "Hikes Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ha1.png"
+    ],
+    [
+      "Musician Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-mu1.png"
+    ],
+    [
+      "Nautical Skills Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ns1.png"
+    ],
+    [
+      "Navigator Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-nv1.png"
+    ],
+    [
+      "Nights Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-na1.png"
+    ],
+    [
+      "Paddle Sports Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ps1.png"
+    ],
+    [
+      "Sailing Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-sai1.png"
+    ],
+    [
+      "Swimmer Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-swm1.png"
+    ],
+    [
+      "Time on the Water Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-tow1.png"
+    ],
+    [
+      "Activity Centre Service Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-acs.png"
+    ],
+    [
+      "Activity Plus Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-as-acp.png"
+    ],
+    [
+      "Athletics Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-ath.png"
+    ],
+    [
+      "Camper Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-cam.png"
+    ],
+    [
+      "Caving Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-cav.png"
+    ],
+    [
+      "Chef Activity Badge",
+      "https://staging.scouts.org.uk/images/content/badges/2015ex-as-che.png"
+    ],
+    [
+      "Climber Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-cli.png"
+    ],
+    [
+      "Creative Arts Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-cre.png"
+    ],
+    [
+      "Fundraising Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-fun.png"
+    ],
+    [
+      "Global Issues Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-gi.png"
+    ],
+    [
+      "Hill Walker Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-hw.png"
+    ],
+    [
+      "Instructor Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-as-inst.png"
+    ],
+    [
+      "International Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-int.png"
+    ],
+    [
+      "Leadership Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-lea.png"
+    ],
+    [
+      "Lifesaver Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-lif.png"
+    ],
+    [
+      "Media Relations and Marketing Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-mr.png"
+    ],
+    [
+      "Motor Sports Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-ms.png"
+    ],
+    [
+      "Mountain Biking Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-mb.png"
+    ],
+    [
+      "Naturalist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-nat.png"
+    ],
+    [
+      "Performing Arts Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-pa.png"
+    ],
+    [
+      "Physical Recreation Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-pr.png"
+    ],
+    [
+      "Pioneer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/ex-as-pio-2.png"
+    ],
+    [
+      "Racquet Sports Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-rs.png"
+    ],
+    [
+      "Science and Technology Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-sat.png"
+    ],
+    [
+      "Skiing Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-ski.png"
+    ],
+    [
+      "Snowboarding Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-sb.png"
+    ],
+    [
+      "Street Sports Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-sts.png"
+    ],
+    [
+      "Survival Skills Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-svs.png"
+    ],
+    [
+      "Water Activities Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015ex-as-wa.png"
+    ]
+  ],
+  "cubs": [
+    [
+      "Chief Scout's Silver Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-csa.png"
+    ],
+    [
+      "Our Adventure Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-adv.png"
+    ],
+    [
+      "Our Outdoors Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-out.png"
+    ],
+    [
+      "Our Skills Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-ski.png"
+    ],
+    [
+      "Our World Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-wor.png"
+    ],
+    [
+      "Personal Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-per.png"
+    ],
+    [
+      "Team Leader Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-tel.png"
+    ],
+    [
+      "Teamwork Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-cs-tea.png"
+    ],
+    [
+      "Joining In Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-j3.png"
+    ],
+    [
+      "Membership Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-mb.png"
+    ],
+    [
+      "Moving On Award (Cubs to Scouts)",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-m-moa.png"
+    ],
+    [
+      "Air Activities Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-aa1.png"
+    ],
+    [
+      "Community Impact Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-cs1.png"
+    ],
+    [
+      "Digital Citizen Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dc1.png"
+    ],
+    [
+      "Digital Maker Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dm1.png"
+    ],
+    [
+      "Emergency Aid Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ea1.png"
+    ],
+    [
+      "Hikes Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ha1.png"
+    ],
+    [
+      "Musician Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-mu1.png"
+    ],
+    [
+      "Nautical Skills Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ns1.png"
+    ],
+    [
+      "Navigator Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-nv1.png"
+    ],
+    [
+      "Nights Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-na1.png"
+    ],
+    [
+      "Paddle Sports Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ps1.png"
+    ],
+    [
+      "Sailing Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-sai1.png"
+    ],
+    [
+      "Swimmer Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-swm1.png"
+    ],
+    [
+      "Time on the Water Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-tow1.png"
+    ],
+    [
+      "Activity Plus Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-as-acp.png"
+    ],
+    [
+      "Animal Carer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ani.png"
+    ],
+    [
+      "Artist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-art.png"
+    ],
+    [
+      "Astronomer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ast.png"
+    ],
+    [
+      "Athletics Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ath.png"
+    ],
+    [
+      "Athletics Plus Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-athp.png"
+    ],
+    [
+      "Backwoods Cooking Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-bc.png"
+    ],
+    [
+      "Book Reader Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-br.png"
+    ],
+    [
+      "Chef Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-che.png"
+    ],
+    [
+      "Collector Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-coll.png"
+    ],
+    [
+      "Communicator Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-comm.png"
+    ],
+    [
+      "Cyclist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-cyc.png"
+    ],
+    [
+      "DIY Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-diy.png"
+    ],
+    [
+      "Disability Awareness Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-dis.png"
+    ],
+    [
+      "Entertainer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ent.png"
+    ],
+    [
+      "Environmental Conservation Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-enc.png"
+    ],
+    [
+      "Equestrian Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-equ.png"
+    ],
+    [
+      "Fire Safety Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-fs.png"
+    ],
+    [
+      "Global Issues Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-gi.png"
+    ],
+    [
+      "Hobbies Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-hob.png"
+    ],
+    [
+      "Home Help Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-hh.png"
+    ],
+    [
+      "Home Safety Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-hs.png"
+    ],
+    [
+      "International Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-int.png"
+    ],
+    [
+      "Local Knowledge Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-lk.png"
+    ],
+    [
+      "Martial Arts Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ma.png"
+    ],
+    [
+      "My Faith Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-mf.png"
+    ],
+    [
+      "Naturalist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-nat.png"
+    ],
+    [
+      "Personal Safety Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-ps.png"
+    ],
+    [
+      "Photographer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-pho.png"
+    ],
+    [
+      "Physical Recreation Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015cu-as-phr.png"
+    ]
+  ],
+  "scouts": [
+    [
+      "Adventure Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-adv.png"
+    ],
+    [
+      "Chief Scout's Gold Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-csa.png"
+    ],
+    [
+      "Creative Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-cre.png"
+    ],
+    [
+      "Expedition Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-exp.png"
+    ],
+    [
+      "Outdoor Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-out.png"
+    ],
+    [
+      "Personal Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-per.png"
+    ],
+    [
+      "Skills Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-ski.png"
+    ],
+    [
+      "Team Leader Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-tel.png"
+    ],
+    [
+      "Teamwork Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-tea.png"
+    ],
+    [
+      "World Challenge Award",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-cs-wor.png"
+    ],
+    [
+      "Joining In Awards",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-j5.png"
+    ],
+    [
+      "Membership Award",
+      "https://members.scouts.org.uk/images/content/badges/2015as-m-mb.png"
+    ],
+    [
+      "Moving On Award (Scouts to Explorers)",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-m-moa.png"
+    ],
+    [
+      "Air Activities Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-aa1.png"
+    ],
+    [
+      "Community Impact Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-cs1.png"
+    ],
+    [
+      "Digital Citizen Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dc1.png"
+    ],
+    [
+      "Digital Maker Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-dm1.png"
+    ],
+    [
+      "Emergency Aid Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ea1.png"
+    ],
+    [
+      "Hikes Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ha1.png"
+    ],
+    [
+      "Musician Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-mu1.png"
+    ],
+    [
+      "Nautical Skills Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ns1.png"
+    ],
+    [
+      "Navigator Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-nv1.png"
+    ],
+    [
+      "Nights Away Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-na1.png"
+    ],
+    [
+      "Paddle Sports Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-ps1.png"
+    ],
+    [
+      "Sailing Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-sai1.png"
+    ],
+    [
+      "Swimmer Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-swm1.png"
+    ],
+    [
+      "Time on the Water Staged Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-st-tow1.png"
+    ],
+    [
+      "Activity Centre Service Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-acs.png"
+    ],
+    [
+      "Activity Plus Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015as-as-acp.png"
+    ],
+    [
+      "Air Researcher Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ar.png"
+    ],
+    [
+      "Air Spotter Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-as.png"
+    ],
+    [
+      "Air or Sea Navigation Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-asn.png"
+    ],
+    [
+      "Angler Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ang.png"
+    ],
+    [
+      "Artist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-art.png"
+    ],
+    [
+      "Astronautics Activity Badge",
+      "https://members.scouts.org.uk/images/content/UK Space agency_Sc Astronautics_2015.png"
+    ],
+    [
+      "Astronomer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ast.png"
+    ],
+    [
+      "Athletics Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ath.png"
+    ],
+    [
+      "Athletics Plus Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-athp.png"
+    ],
+    [
+      "Camper Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cam.png"
+    ],
+    [
+      "Caver Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cav.png"
+    ],
+    [
+      "Chef Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-che.png"
+    ],
+    [
+      "Circus Skills Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cs.png"
+    ],
+    [
+      "Climber Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cli.png"
+    ],
+    [
+      "Communicator Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-com.png"
+    ],
+    [
+      "Craft Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cra.png"
+    ],
+    [
+      "Cyclist Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-cyc.png"
+    ],
+    [
+      "DIY Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-diy.png"
+    ],
+    [
+      "Dragon Boating Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-db.png"
+    ],
+    [
+      "Electronics Activity Badge",
+      "https://staging.scouts.org.uk/images/content/IET_Sc%20Electronics%20Badge%202015.png"
+    ],
+    [
+      "Entertainer Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ent.png"
+    ],
+    [
+      "Environmental Conservation Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-ec.png"
+    ],
+    [
+      "Equestrian Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-equ.png"
+    ],
+    [
+      "Fire Safety Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-fs.png"
+    ],
+    [
+      "Forester Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-for.png"
+    ],
+    [
+      "Fundraising Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-fun.png"
+    ],
+    [
+      "Geocaching Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-geo.png"
+    ],
+    [
+      "Global Issues Activity Badge",
+      "https://members.scouts.org.uk/images/content/badges/2015sc-as-gi.png"
+    ]
+  ]
 }

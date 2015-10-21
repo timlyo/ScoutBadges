@@ -3,7 +3,8 @@
 Project to create an automatically updating list of all scout badges from [members.scouts.org.uk](members.scouts.org
 .uk) in an open format (json)
 
-Feel free to open an issue if this information is out of date, the script is broken, or you want more information in the file.
+Feel free to open an issue or create a pull request if this information is out of date, the script is broken, or you 
+want more information from the site.
 
 ## pages that are parsed
 
